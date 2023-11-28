@@ -1,28 +1,35 @@
 {
-  "name": "bulhes-salon",
+  "name": "",
   "version": "1.0.0",
   "description": "",
-  "main": "salon-booking.js",
+  "main": "index.js",
   "type": "module",
-  "directories": {
-    "test": "test"
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
   },
-  "scripts": {
-    "test": "mocha"
-  },
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codex-academy/bulhes-salon.git"
+    "url": ""
   },
+  "bugs": "",
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/codex-academy/bulhes-salon/issues"
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
   },
-  "homepage": "https://github.com/codex-academy/bulhes-salon#readme",
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": "mocha"
+  },
   "dependencies": {
-    "mocha": "^10.1.0",
-    "pg-promise": "^10.15.0"
+    "dotenv": "^16.3.1",
+    "mocha": "^10.2.0",
+    "pg-promise": "^11.5.4"
   }
 }
