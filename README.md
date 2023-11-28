@@ -1,7 +1,7 @@
 # Buhles salon
+[![Node.js CI](https://github.com/Londeka-Zikalala/buhles-salon/actions/workflows/node.js.yml/badge.svg)](https://github.com/Londeka-Zikalala/buhles-salon/actions/workflows/node.js.yml)
 
 Buhle has started a salon in her local shopping centre and needs a system to keep track of her business. The salon currently offers 4 different treatments `Pedicures`, `Manicures`, `Make up` & `Brows & Lashes`.
-[![Node.js CI](https://github.com/Londeka-Zikalala/buhles-salon/actions/workflows/node.js.yml/badge.svg)](https://github.com/Londeka-Zikalala/buhles-salon/actions/workflows/node.js.yml)
 All stylists can do all treatments.
 
 The treatment prices are as follows.
